@@ -25,6 +25,18 @@ We build an end-to-end platform to create, train, and deploy computer vision mod
 
 ---
 
+## 📚 Featured Repositories 
+- **node-red-contrib-rosepetal-image-tools** – High-performance image processing toolkit for Node-RED with OpenCV backend  
+  https://github.com/rosepetal-ai/node-red-contrib-rosepetal-image-tools
+
+- **node-red-contrib-rosepetal-python-executor** – Node-RED node to run custom Python code inside flows; supports data science libs, image handling, and persistent mode  
+  https://github.com/rosepetal-ai/node-red-contrib-rosepetal-python-executor
+
+- **node-red-contrib-rosepetal-message-control** – Node-RED plugin that tracks and shows latest inbound/outbound messages per node (debug / runtime control)  
+  https://github.com/rosepetal-ai/node-red-contrib-rosepetal-message-control
+
+---
+
 ## 🌍 Our Mission  
 To empower companies and technical teams to **automate visual inspection, process control, and operational intelligence** without needing specialized AI expertise.
 
