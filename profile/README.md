@@ -25,7 +25,7 @@ We build an end-to-end platform to create, train, and deploy computer vision mod
 
 ---
 
-## 📚 Featured Repositories 
+## 📚 Featured Open Source Repositories 
 - **node-red-contrib-rosepetal-image-tools** – High-performance image processing toolkit for Node-RED with OpenCV backend  
   https://github.com/rosepetal-ai/node-red-contrib-rosepetal-image-tools
 
